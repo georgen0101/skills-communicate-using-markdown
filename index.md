@@ -16,5 +16,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [X] Add a code example
 - [X] Create a list
 
+### Example
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
 
 
